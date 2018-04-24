@@ -1,0 +1,871 @@
+
+{
+  "label": "11",
+  "name": "Coverage_v1414",
+  "natural_order": 11.0,
+  "can_run": false,
+  "stages": [
+    {
+      "result": "Failed",
+      "jobs": [
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-1",
+          "id": 209838,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-3",
+          "id": 209839,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-10",
+          "id": 209840,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-14",
+          "id": 209841,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-18",
+          "id": 209842,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-20",
+          "id": 209843,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-21",
+          "id": 209844,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-26",
+          "id": 209845,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-27",
+          "id": 209846,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-28",
+          "id": 209847,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-29",
+          "id": 209848,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-30",
+          "id": 209849,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-34",
+          "id": 209850,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-35",
+          "id": 209851,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-36",
+          "id": 209852,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-37",
+          "id": 209853,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-38",
+          "id": 209854,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-39",
+          "id": 209855,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-40",
+          "id": 209856,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-42",
+          "id": 209857,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-43",
+          "id": 209858,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-46",
+          "id": 209859,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-50",
+          "id": 209860,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-51",
+          "id": 209861,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-52",
+          "id": 209862,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-54",
+          "id": 209863,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-58",
+          "id": 209864,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-61",
+          "id": 209865,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-62",
+          "id": 209866,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-66",
+          "id": 209867,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-69",
+          "id": 209868,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-71",
+          "id": 209869,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-72",
+          "id": 209870,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-73",
+          "id": 209871,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-76",
+          "id": 209872,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-77",
+          "id": 209873,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-78",
+          "id": 209874,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-79",
+          "id": 209875,
+          "scheduled_date": 1524532766703
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-8",
+          "id": 209876,
+          "scheduled_date": 1524533339301
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-9",
+          "id": 209877,
+          "scheduled_date": 1524533339317
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-12",
+          "id": 209878,
+          "scheduled_date": 1524533339317
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-17",
+          "id": 209879,
+          "scheduled_date": 1524533339333
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-19",
+          "id": 209880,
+          "scheduled_date": 1524533339348
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-7",
+          "id": 209881,
+          "scheduled_date": 1524533399302
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-11",
+          "id": 209882,
+          "scheduled_date": 1524533399318
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-2",
+          "id": 209883,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-4",
+          "id": 209884,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-13",
+          "id": 209885,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-23",
+          "id": 209886,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-33",
+          "id": 209887,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-44",
+          "id": 209888,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-47",
+          "id": 209889,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-48",
+          "id": 209890,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-49",
+          "id": 209891,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-53",
+          "id": 209892,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-60",
+          "id": 209893,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-64",
+          "id": 209894,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-65",
+          "id": 209895,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-67",
+          "id": 209896,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-68",
+          "id": 209897,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-74",
+          "id": 209898,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-75",
+          "id": 209899,
+          "scheduled_date": 1524565912578
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-15",
+          "id": 209900,
+          "scheduled_date": 1524566536846
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-25",
+          "id": 209901,
+          "scheduled_date": 1524566596852
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-32",
+          "id": 209902,
+          "scheduled_date": 1524566596868
+        },
+        {
+          "state": "Completed",
+          "result": "Passed",
+          "name": "BDD-W2012-SQL2012-runInstance-55",
+          "id": 209903,
+          "scheduled_date": 1524566721054
+        },
+        {
+          "state": "Completed",
+          "result": "Failed",
+          "name": "BDD-W2012-SQL2012-runInstance-6",
+          "id": 209904,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-16",
+          "id": 209905,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-22",
+          "id": 209906,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-24",
+          "id": 209907,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Completed",
+          "result": "Failed",
+          "name": "BDD-W2012-SQL2012-runInstance-41",
+          "id": 209908,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Completed",
+          "result": "Failed",
+          "name": "BDD-W2012-SQL2012-runInstance-45",
+          "id": 209909,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-56",
+          "id": 209910,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-57",
+          "id": 209911,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-59",
+          "id": 209912,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-5",
+          "id": 209914,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-31",
+          "id": 209915,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-80",
+          "id": 209916,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-70",
+          "id": 209917,
+          "scheduled_date": 1524580618506
+        },
+        {
+          "state": "Building",
+          "result": "Unknown",
+          "name": "BDD-W2012-SQL2012-runInstance-63",
+          "id": 209946,
+          "scheduled_date": 1524581223954
+        }
+      ],
+      "name": "Gather",
+      "rerun_of_counter": 1,
+      "approval_type": "manual",
+      "scheduled": true,
+      "operate_permission": true,
+      "approved_by": "abuzadji",
+      "can_run": false,
+      "id": 91577,
+      "counter": "3"
+    },
+    {
+      "jobs": [],
+      "name": "Aggregate",
+      "rerun_of_counter": null,
+      "approval_type": null,
+      "scheduled": false,
+      "operate_permission": true,
+      "approved_by": null,
+      "can_run": false,
+      "id": 0,
+      "counter": "1"
+    }
+  ],
+  "id": 74467,
+  "build_cause":
+  {
+    "trigger_message": "Forced by anonymous",
+    "approver": "anonymous",
+    "material_revisions": [
+      {
+        "material":
+        {
+          "fingerprint": "54c9eb1cdeb9bce0397a1c6cf41a43184814eb779da70ac3ce1938ce6b9ee5d6",
+          "description": "Acceptance_v1414",
+          "id": 23972,
+          "type": "Pipeline"
+        },
+        "modifications": [
+          {
+            "modified_time": 1524532543868,
+            "user_name": "Unknown",
+            "id": 74140,
+            "revision": "Acceptance_v1414/266/AcceptanceStage/1",
+            "email_address": null,
+            "comment": "Unknown"
+          }
+        ],
+        "changed": true
+      },
+      {
+        "material":
+        {
+          "fingerprint": "00746e3f1ad5ff888bd9ddfb028600f37b4dccd7fcad451b761332623dcd026b",
+          "description": "URL: http://taipan.corp.soti.net:8080/tfs, Username: serv_gocd, Domain: SOTI, ProjectPath: $/MobiControl/Branch/Main/ManagedComponents",
+          "id": -1,
+          "type": "Tfs"
+        },
+        "modifications": [
+          {
+            "modified_time": 1524524287680,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 74121,
+            "revision": "306244",
+            "email_address": null,
+            "comment": "MC-53416 Updated Search criteria to return a list of apps if we search on empty text\nVersion and Description is editable"
+          },
+          {
+            "modified_time": 1524521661210,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 74107,
+            "revision": "306240",
+            "email_address": null,
+            "comment": "MC-53391 Code clean up after toggle removal"
+          },
+          {
+            "modified_time": 1524516313430,
+            "user_name": "SOTI\\mkotormus",
+            "id": 74066,
+            "revision": "306231",
+            "email_address": null,
+            "comment": "[MC-52513] AADS Adding permission validation on MS side + bug fix on sending event + typo fix + few more UI tweaks."
+          },
+          {
+            "modified_time": 1524512618917,
+            "user_name": "SOTI\\parezina",
+            "id": 74005,
+            "revision": "306217",
+            "email_address": null,
+            "comment": "MC-53483 : Add logging to get runtime values"
+          },
+          {
+            "modified_time": 1524509523397,
+            "user_name": "SOTI\\mkotormus",
+            "id": 73963,
+            "revision": "306206",
+            "email_address": null,
+            "comment": "[MC-52513] roolback 306201"
+          },
+          {
+            "modified_time": 1524507586020,
+            "user_name": "SOTI\\mkotormus",
+            "id": 73937,
+            "revision": "306201",
+            "email_address": null,
+            "comment": "[MC-52513] AADS Adding permission validation on MS side + typo fix + few more UI tweaks."
+          },
+          {
+            "modified_time": 1524506019933,
+            "user_name": "SOTI\\ibastrikova",
+            "id": 73917,
+            "revision": "306196",
+            "email_address": null,
+            "comment": "MC-53202 code review follow-up"
+          },
+          {
+            "modified_time": 1524505233403,
+            "user_name": "SOTI\\gwood",
+            "id": 73909,
+            "revision": "306193",
+            "email_address": null,
+            "comment": "Rollback 305872"
+          },
+          {
+            "modified_time": 1524505193907,
+            "user_name": "SOTI\\gwood",
+            "id": 73905,
+            "revision": "306192",
+            "email_address": null,
+            "comment": "Rollback 306167"
+          },
+          {
+            "modified_time": 1524504920953,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 73902,
+            "revision": "306191",
+            "email_address": null,
+            "comment": "MC-53452 Update Database to Support Screenshots\n(case when BDD Mock doesn't sent Screenshots due to old SotiServices Contract)"
+          },
+          {
+            "modified_time": 1524504867560,
+            "user_name": "SOTI\\phoang",
+            "id": 73898,
+            "revision": "306190",
+            "email_address": null,
+            "comment": "MC-53426: Fixed how the app configuration for AE doesn't clear the app configuration in the legacy web UI"
+          },
+          {
+            "modified_time": 1524503629140,
+            "user_name": "SOTI\\parezina",
+            "id": 73890,
+            "revision": "306186",
+            "email_address": null,
+            "comment": "MC-53137: Make wipe command persistant"
+          },
+          {
+            "modified_time": 1524503423817,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 73885,
+            "revision": "306185",
+            "email_address": null,
+            "comment": "MC-53274 Remove MarketSearch API calls when we preview Application Catalog Rule Preview"
+          },
+          {
+            "modified_time": 1524503383777,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 73884,
+            "revision": "306184",
+            "email_address": null,
+            "comment": "MC-53452 Removed Unused File"
+          },
+          {
+            "modified_time": 1524502054403,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 73871,
+            "revision": "306182",
+            "email_address": null,
+            "comment": "MC-53452 missing file. Update Database to support Screenshots"
+          },
+          {
+            "modified_time": 1524499827247,
+            "user_name": "SOTI\\mkotormus",
+            "id": 73856,
+            "revision": "306176",
+            "email_address": null,
+            "comment": "MC-52513 UI change for permission hook-up on AADS"
+          },
+          {
+            "modified_time": 1524499695970,
+            "user_name": "SOTI\\ibastrikova",
+            "id": 73853,
+            "revision": "306174",
+            "email_address": null,
+            "comment": "MC-53137 added dynamic compitability check attribute to Wipe action"
+          },
+          {
+            "modified_time": 1524499300017,
+            "user_name": "SOTI\\oldanchuk",
+            "id": 73845,
+            "revision": "306173",
+            "email_address": null,
+            "comment": "MC-53452 Updated Ado Providers and links between providers and Model\nUpdate Database to support Screenshots"
+          },
+          {
+            "modified_time": 1524499157843,
+            "user_name": "SOTI\\ssong",
+            "id": 73841,
+            "revision": "306171",
+            "email_address": null,
+            "comment": "[MCMR-14004] USPS: MCAU clear log does not work properly -rollback change"
+          },
+          {
+            "modified_time": 1524496218237,
+            "user_name": "SOTI\\gwood",
+            "id": 73815,
+            "revision": "306167",
+            "email_address": null,
+            "comment": "MC-53123: Clean up Sonarqube bug."
+          },
+          {
+            "modified_time": 1524495971923,
+            "user_name": "SOTI\\hxia",
+            "id": 73812,
+            "revision": "306166",
+            "email_address": null,
+            "comment": "MC-53386: refactoring for separate creation of MDM profile for normal enroll vs renew"
+          },
+          {
+            "modified_time": 1524495618977,
+            "user_name": "SOTI\\parezina",
+            "id": 73809,
+            "revision": "306165",
+            "email_address": null,
+            "comment": "MC-53137: Fix iOS wipe action compatibility"
+          },
+          {
+            "modified_time": 1524494854360,
+            "user_name": "SOTI\\hxia",
+            "id": 73801,
+            "revision": "306161",
+            "email_address": null,
+            "comment": "MC-53386: disable failed test case for refactoring needed"
+          },
+          {
+            "modified_time": 1524492752627,
+            "user_name": "SOTI\\parezina",
+            "id": 73784,
+            "revision": "306160",
+            "email_address": null,
+            "comment": "MC-53383: Update enum package"
+          },
+          {
+            "modified_time": 1524492737617,
+            "user_name": "SOTI\\mkotormus",
+            "id": 73783,
+            "revision": "306159",
+            "email_address": null,
+            "comment": "[MC-53082] fixes on scrollbar, button cutoff, refactor labels  into resource file + complete error handling on JS side"
+          },
+          {
+            "modified_time": 1524492524180,
+            "user_name": "SOTI\\hxia",
+            "id": 73775,
+            "revision": "306157",
+            "email_address": null,
+            "comment": "MC-53386: embed trustChain certs. in renew mdm profile payload"
+          },
+          {
+            "modified_time": 1524486139027,
+            "user_name": "SOTI\\shana",
+            "id": 73738,
+            "revision": "306150",
+            "email_address": null,
+            "comment": "MC-53060: code review changes "
+          },
+          {
+            "modified_time": 1524467095277,
+            "user_name": "SOTI\\mirshad",
+            "id": 73723,
+            "revision": "306133",
+            "email_address": null,
+            "comment": "MC-51818 : Reduced complexity of if else block."
+          },
+          {
+            "modified_time": 1524464194450,
+            "user_name": "SOTI\\jyadav",
+            "id": 73710,
+            "revision": "306131",
+            "email_address": null,
+            "comment": "[HUB-7408] - Rollbacked - MC export event logs to a file"
+          }
+        ],
+        "changed": true
+      }
+    ],
+    "trigger_forced": true
+  },
+  "preparing_to_schedule": false,
+  "counter": 11,
+  "comment": null
+}

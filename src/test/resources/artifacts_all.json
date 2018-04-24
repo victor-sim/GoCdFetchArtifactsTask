@@ -1,0 +1,319 @@
+[
+  {
+    "name": "MobiControlSearch",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch",
+    "type": "folder",
+    "files": [
+      {
+        "name": "MobiControlSearch.log",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch/MobiControlSearch.log",
+        "type": "file"
+      },
+      {
+        "name": "MobiControlSearch.log.2018-04-23",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch/MobiControlSearch.log.2018-04-23",
+        "type": "file"
+      },
+      {
+        "name": "MobiControlSearch_deprecation.log",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch/MobiControlSearch_deprecation.log",
+        "type": "file"
+      },
+      {
+        "name": "MobiControlSearch_index_indexing_slowlog.log",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch/MobiControlSearch_index_indexing_slowlog.log",
+        "type": "file"
+      },
+      {
+        "name": "MobiControlSearch_index_search_slowlog.log",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MobiControlSearch/MobiControlSearch_index_search_slowlog.log",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "NUnit",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit",
+    "type": "folder",
+    "files": [
+      {
+        "name": "20180424_014330_UTC.Soti.MobiControl.Bdd",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd",
+        "type": "folder",
+        "files": [
+          {
+            "name": "InternalTrace.2260.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.2260.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.AndroidForWork.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.AndroidForWork.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.Apple.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.Apple.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.HubAndroidMC.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.HubAndroidMC.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.HubIosMC.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.HubIosMC.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.Linux.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.Linux.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.Mac.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.Mac.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.PublicApiTests.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.PublicApiTests.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.Security.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.Security.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.SurfAndroidMC.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.SurfAndroidMC.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.SurfIosMC.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.SurfIosMC.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "InternalTrace.4320.Soti.MobiControl.Bdd.WindowsModern.dll.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/InternalTrace.4320.Soti.MobiControl.Bdd.WindowsModern.dll.log",
+            "type": "file"
+          },
+          {
+            "name": "nunit-agent_4320.log",
+            "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/NUnit/20180424_014330_UTC.Soti.MobiControl.Bdd/nunit-agent_4320.log",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OpenCover-output",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/OpenCover-output",
+    "type": "folder",
+    "files": [
+      {
+        "name": "MCDeplSvr.stderr.txt",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/OpenCover-output/MCDeplSvr.stderr.txt",
+        "type": "file"
+      },
+      {
+        "name": "MCDeplSvr.stdout.txt",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/OpenCover-output/MCDeplSvr.stdout.txt",
+        "type": "file"
+      },
+      {
+        "name": "MobiControl_Management_Service.stderr.txt",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/OpenCover-output/MobiControl_Management_Service.stderr.txt",
+        "type": "file"
+      },
+      {
+        "name": "MobiControl_Management_Service.stdout.txt",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/OpenCover-output/MobiControl_Management_Service.stdout.txt",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "SystemLogs",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/SystemLogs",
+    "type": "folder",
+    "files": [
+      {
+        "name": "Application.evtx",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/SystemLogs/Application.evtx",
+        "type": "file"
+      },
+      {
+        "name": "Security.evtx",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/SystemLogs/Security.evtx",
+        "type": "file"
+      },
+      {
+        "name": "System.evtx",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/SystemLogs/System.evtx",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "cruise-output",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/cruise-output",
+    "type": "folder",
+    "files": [
+      {
+        "name": "console.log",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/cruise-output/console.log",
+        "type": "file"
+      },
+      {
+        "name": "md5.checksum",
+        "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/cruise-output/md5.checksum",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "ApiClientRegistration.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/ApiClientRegistration.log",
+    "type": "file"
+  },
+  {
+    "name": "BDDTests-Error.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BDDTests-Error.log",
+    "type": "file"
+  },
+  {
+    "name": "BDDTests-Output.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BDDTests-Output.log",
+    "type": "file"
+  },
+  {
+    "name": "BDDTests-Result.Alternative.html",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BDDTests-Result.Alternative.html",
+    "type": "file"
+  },
+  {
+    "name": "BDDTests-Result.html",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BDDTests-Result.html",
+    "type": "file"
+  },
+  {
+    "name": "BDDTests-TestCases.txt",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BDDTests-TestCases.txt",
+    "type": "file"
+  },
+  {
+    "name": "BuildEvents.Report.html",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/BuildEvents.Report.html",
+    "type": "file"
+  },
+  {
+    "name": "Coverage.Gather.output.zip",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/Coverage.Gather.output.zip",
+    "type": "file"
+  },
+  {
+    "name": "DBInstall.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/DBInstall.log",
+    "type": "file"
+  },
+  {
+    "name": "DS_Search.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/DS_Search.log",
+    "type": "file"
+  },
+  {
+    "name": "DeploymentServerExtensions.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/DeploymentServerExtensions.log",
+    "type": "file"
+  },
+  {
+    "name": "DeploymentServerExtensionsStackTrace.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/DeploymentServerExtensionsStackTrace.log",
+    "type": "file"
+  },
+  {
+    "name": "DeviceSimulator.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/DeviceSimulator.log",
+    "type": "file"
+  },
+  {
+    "name": "Html5RemoteControl.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/Html5RemoteControl.log",
+    "type": "file"
+  },
+  {
+    "name": "MCAdmin.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCAdmin.log",
+    "type": "file"
+  },
+  {
+    "name": "MCBackgroundEvents.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCBackgroundEvents.log",
+    "type": "file"
+  },
+  {
+    "name": "MCDeplSvr.2018-04-23.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCDeplSvr.2018-04-23.log",
+    "type": "file"
+  },
+  {
+    "name": "MCDeplSvr.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCDeplSvr.log",
+    "type": "file"
+  },
+  {
+    "name": "MCInstall.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCInstall.log",
+    "type": "file"
+  },
+  {
+    "name": "MCUpgradeHandler.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MCUpgradeHandler.log",
+    "type": "file"
+  },
+  {
+    "name": "MS_Search.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/MS_Search.log",
+    "type": "file"
+  },
+  {
+    "name": "ManagementService.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/ManagementService.log",
+    "type": "file"
+  },
+  {
+    "name": "ManagementServiceStackTrace.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/ManagementServiceStackTrace.log",
+    "type": "file"
+  },
+  {
+    "name": "Soti.DevTools.MobiControl.BuildManager.Cli.log",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/Soti.DevTools.MobiControl.BuildManager.Cli.log",
+    "type": "file"
+  },
+  {
+    "name": "SystemMonitorLog.blg",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/SystemMonitorLog.blg",
+    "type": "file"
+  },
+  {
+    "name": "report.html",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/report.html",
+    "type": "file"
+  },
+  {
+    "name": "report.xml",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/report.xml",
+    "type": "file"
+  },
+  {
+    "name": "report.xsl",
+    "url": "https://cagomc100.corp.soti.net:8154/go/files/Coverage_v1414/11/Gather/1/BDD-W2012-SQL2012-runInstance-1/report.xsl",
+    "type": "file"
+  }
+]

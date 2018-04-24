@@ -1,0 +1,128 @@
+buildscript {
+    repositories {
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath "org.jfrog.buildinfo:build-info-extractor-gradle:4.7.1"
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+apply plugin: "com.jfrog.artifactory"
+
+group 'net.soti.go.plugin'
+
+if (hasProperty('ci_build_no')) { // passed in by GOCD
+    version = version + '.GO-' + getProperty('ci_build_no')
+}
+
+sourceCompatibility = 1.8 // java 8
+targetCompatibility = 1.8
+
+repositories {
+    maven {
+        url 'http://sotiartifacts.corp.soti.net:8081/artifactory/globalmaven/'
+    }
+    mavenLocal()
+}
+
+jar {
+    from(configurations.compile) {
+        into "lib/"
+    }
+    archiveName project.name + '.' + project.version + '.jar'
+}
+
+version = rootProject.version
+def projectName = rootProject.group + '.' + rootProject.name
+def pluginDesc = [
+        id         : projectName,
+        version    : rootProject.version,
+        goCdVersion: '18.1.0',
+        name       : 'SOTI Fetch Upstream Artifacts plugin',
+        description: 'GoCD fetch artifacts task plugin that supports wildcard characters',
+        vendorName : 'SOTI Inc',
+        vendorUrl  : 'https://www.soti.net'
+]
+
+println "ProjectName = {$rootProject.name}, this.name = {$name}, version {$rootProject.version}"
+processResources {
+    from("resource-templates") {
+        filesMatching('plugin.xml') {
+            println pluginDesc
+            expand pluginDesc
+        }
+    }
+}
+
+dependencies {
+    compileOnly group: 'cd.go.plugin', name: 'go-plugin-api', version: '18.1.0'
+    compile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.4'
+    compile group: 'commons-io', name: 'commons-io', version: '2.5'
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.7'
+
+    testCompile group: 'cd.go.plugin', name: 'go-plugin-api', version: '18.1.0'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    testCompile group: 'org.apache.httpcomponents', name: 'httpclient', version: '4.5.2'
+}
+
+build.doLast {
+    tasks.archiveArtifacts.execute()
+}
+
+task archiveArtifacts(type: Zip) {
+    from projectDir
+    include 'build/**'
+    exclude 'build/distributions/**'
+    archiveName 'build.zip'
+}
+
+artifactory {
+    contextUrl = "${artifactory_contextUrl}"
+    publish {
+        repository {
+            repoKey = "${artifactory_repository}"
+            username = "${artifactory_user}"
+            password = "${artifactory_password}"
+            maven = true
+        }
+        defaults {
+            publications('mavenJava')
+        }
+    }
+
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+        }
+    }
+}
+
+task unzipBuild(type: Copy) {
+    println projectDir.path
+    def zipFile = fileTree(projectDir.path)
+            .filter { it.isFile() }
+            .filter { it.getName() == 'build.zip' }
+
+    if (zipFile.size() > 0) {
+        println "Found one : ${zipFile.getAt(0)}"
+
+        from zipTree(zipFile.getAt(0))
+        include 'build/**'
+        into 'build'
+        eachFile { f ->
+            f.path = f.path.replaceFirst('build/', '')
+            println "Write ${f.path}"
+        }
+        includeEmptyDirs false
+    } else {
+        println "No Such a file"
+    }
+}
